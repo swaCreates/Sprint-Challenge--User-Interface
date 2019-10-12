@@ -89,9 +89,28 @@ hr {
     margin-bottom: 25px;
 }
 
-.strategy, .hww, .pww, .collab {
+.strategy {
     width: 50%;
-    border: 1px solid red;
+    border: 1px solid black;
+    height: 15%;
+}
+
+.hww {
+    width: 50%;
+    border: 1px solid black;
+    height: 15%;
+}
+
+.pww {
+    width: 50%;
+    border: 1px solid black;
+    height: 15%;
+}
+
+.collab {
+    width: 50%;
+    border: 1px solid black;
+    height: 15%;
 }
 
 .about {
