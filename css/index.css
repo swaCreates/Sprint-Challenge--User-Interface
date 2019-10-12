@@ -144,3 +144,36 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.container {
+    border: 1px solid red;
+}
+
+a {
+    text-decoration: none;
+    color: black;   
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+header {
+    margin-bottom: 10px;
+    
+}
+
+.first-img {
+    width: 15%;
+    margin-bottom: 23px;
+    position: relative;
+    bottom: 17px;
+}
+
+.second-img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
