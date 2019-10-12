@@ -71,6 +71,14 @@ p {
     margin: 0 auto;
 }
 
+.content-container {
+    display: flex;
+}
+
+.strategy, .hww, .pww, .collab {
+    width: 20%;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
