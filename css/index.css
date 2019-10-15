@@ -197,7 +197,7 @@ button:hover {
     justify-content: center;
 }
 
-.boxes .box:first-child {
+.boxes .box1:first-child {
     background: teal;
 }
 
@@ -205,35 +205,35 @@ button:hover {
     background:dodgerblue;
 }
 
-#box-2 {
+.middle-content .boxes .box.box2 {
     background: gold;
 }
 
-#box-3 {
+.middle-content .boxes .box3 {
     background: cadetblue;
 }
 
-#box-4 {
+.middle-content .boxes .box4 {
     background: coral;
 }
 
-#box-5 {
+.middle-content .boxes .box5 {
     background: crimson;
 }
 
-#box-6 {
+.middle-content .boxes .box6 {
     background: forestgreen;
 }
 
-#box-7 {
+.middle-content .boxes .box7 {
     background: darkorchid;
 }
 
-#box-8 {
+.middle-content .boxes .box8 {
     background: hotpink;
 }
 
-#box-9 {
+.middle-content .boxes .box9 {
     background: indigo;
 }
 
@@ -247,8 +247,6 @@ button:hover {
 .bottom-content .text-container {
     padding-right: 4%;
 }
-
-
 
 .bottom-content .text-container:last-child {
     padding-right: 0;
@@ -273,9 +271,6 @@ footer nav a {
     text-decoration: none;
 }
 
-.container {
-    /* border: 1px solid red; */
-}
 
 a {
     text-decoration: none;
